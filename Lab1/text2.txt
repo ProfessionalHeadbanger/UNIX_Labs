@@ -1,0 +1,9 @@
+There is some text here.
+Next line is empty:
+
+There is two empty lines, check out:
+
+
+Pattern to change is "CHANGE ME"
+CHANGE ME, CHANGE ME, CHANGE ME
+please...
